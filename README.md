@@ -10,9 +10,9 @@ this can be done using [qsreplace](https://github.com/tomnomnom/qsreplace) tool 
 ## Command
  For running this script
  
-Step 1 : ``` git clone https://github.com/AmbitiousSam/XSS-Scanner ```
-Step 2 : ``` chmod +x xss.sh``` 
-Step 3 : ``` ./xss.sh -w urls.txt ```
+Step 1 : ``` git clone https://github.com/AmbitiousSam/XSS-Scanner ```<br>
+Step 2 : ``` chmod +x xss.sh``` <br>
+Step 3 : ``` ./xss.sh -w urls.txt ``` <br>
 
-Then it will check every url and show the vulnverable urls.
+It will check every url and show the vulnverable urls.
 
