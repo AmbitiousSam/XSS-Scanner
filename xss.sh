@@ -4,6 +4,7 @@
 	echo "\033[0m"
 	printf "  +=============================================+"'\n'
 	printf "  |      Mass Vuln Web XSS Injection Scanner    |"'\n'
+	printf "  |                               by - sivakumar|"'\n'
 	printf "  +=============================================+"'\n''\n'
 
 
@@ -41,5 +42,5 @@
 			echo -e "\033[0m"
 		fi
 	done
-	echo -e "\033[1;34m[!]Vulneraibility Web Success Saved in vuln.txt\n"
+	echo -e "\033[1;34m[!]Vulnerable Web Urls Saved in vuln.txt\n"
 	echo -e "\033[0m"
